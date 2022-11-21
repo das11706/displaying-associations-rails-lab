@@ -14,5 +14,7 @@ group :development, :test do
   gem 'rspec-rails'
 end
 
+gem 'nokogiri', '~> 1.13', '>= 1.13.9'
+
 group :development do
 end
